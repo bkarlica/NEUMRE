@@ -6,6 +6,6 @@ Korišten je javni Brain Tumor MRI Dataset s Kagglea (7023 slike). Usporedili sm
 
 Najbolji rezultat postigao je EfficientNet-B3 uz ROI ekstrakciju, s točnošću od oko 99,4%.
 
-Više pročitajte u izvještaju (_MRI projekt.pdf_)[MRI%20projekt.pdf] ili pogledajte prezentaciju (_MRI ppt.pptx_.)[MRI%20ppt.pptx]
+Više pročitajte u izvještaju [_MRI projekt.pdf_](MRI%20projekt.pdf) ili pogledajte prezentaciju [_MRI ppt.pptx_.](MRI%20ppt.pptx)
 
 **Autori:** Lucija Topolko, Julijana Kolarec, Karla Budimir, Carla Goluža, Dora Bilić Pavlinović

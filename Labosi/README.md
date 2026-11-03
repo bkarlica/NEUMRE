@@ -35,4 +35,4 @@ Kod i komentari nalaze se u bilježnici [`lab3_KB.ipynb`](laboratory3/lab3_KB.ip
 
 **8. Konvolucijske neuronske mreže (PyTorch).** 
 
-Kod i komentari nalaze se u bilježnici [`lab4_KB.ipynb`](laboratory4/lab4_KB.ipynb). Slike za zadatke klasifikacije nalaze se u mapi [`cnn_img`](laboratory4/cnn_img).
+Kod i komentari nalaze se u bilježnici [`lab4_KB.ipynb`](laboratory4/lab4_KB.ipynb). Slike za zadatke klasifikacije nalaze se u mapi [`cnn_img`](laboratory4/cnn_img.zip).

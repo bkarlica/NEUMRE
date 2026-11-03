@@ -4,19 +4,18 @@ Laboratorijske vježbe iz neuronskih mreža, izrađene u Pythonu (Jupyter Notebo
 
 ## Lab 1: Model neurona i asocijativna memorija
 
-**1. Model neurona i učenje.** Implementirala sam model neurona s tri ulaza i pragom te tri aktivacijske funkcije (step, rampa, sigmoida). Od toga sam složila mrežu od tri neurona, a na jednom neuronu sam delta pravilom naučila logičku funkciju AND i pratila pogrešku kroz iteracije za različite stope učenja.
+**1. Model neurona i učenje.** 
+**2. Asocijativna memorija.** 
 
-**2. Asocijativna memorija.** Izradila sam korelacijsku matricu koja pamti parove ključ-riječ (riječi su kodirane ASCII vrijednostima). Istražila sam što se događa s ortogonalnim, linearno ovisnim i neortogonalnim ključevima, kapacitet memorije te ortonormalizaciju ključeva (Gram-Schmidt) i izračun matrice pomoću inverza.
-
-Kod i komentari nalaze se u bilježnici `lab1_KB.ipynb`.
+Kod i komentari nalaze se u bilježnici [`lab1_KB.ipynb`](laboratory1/lab1_KB.ipynb).
 
 ## Lab 2: Perceptron i LMS algoritam
 
-**3. Perceptron.** Implementirala sam perceptron i njegovo učenje LMS pravilom te ga primijenila na klasifikaciju točaka u 2D i 3D prostoru. Isprobala sam linearno odvojive skupove, XOR problem (koji perceptron ne može riješiti jer nije linearno odvojiv), klase s Gaussovom razdiobom i mrežu od dva perceptrona za klasifikaciju u četiri klase (binarno kodirani izlazi). Granice odluke i pogreška kroz epohe prikazani su grafovima.
+**3. Perceptron.** 
 
-**4. LMS algoritam za predviđanje cijene dionice.** Linearni neuron treniran LMS algoritmom koristi cijene iz nekoliko prethodnih dana za predviđanje današnje cijene dionice. Podaci se učitavaju iz datoteke `stock.txt`.
+**4. LMS algoritam za predviđanje cijene dionice.**  Podaci se učitavaju iz datoteke [`stock.txt`](laboratory2/stock.txt).
 
-Kod i komentari nalaze se u bilježnici `lab2_KB.ipynb`.
+Kod i komentari nalaze se u bilježnici [`lab2_KB.ipynb`](laboratory2/lab2_KB.ipynb).
 
 ## Lab 3: Višeslojni perceptron (PyTorch) i SVM
 

@@ -1,4 +1,4 @@
-# Laboratorijske vježbe
+# NEUMRE - Neuronske mreže
 
 Laboratorijske vježbe iz neuronskih mreža, izrađene u Pythonu (Jupyter Notebook) uz biblioteke NumPy, SciPy, Matplotlib, PyTorch i scikit-learn.
 
